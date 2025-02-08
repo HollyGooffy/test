@@ -1,0 +1,8 @@
+@import "normalize.css";
+@import "globals.css";
+
+
+body{
+    background-color: var(--black-08);
+}
+
